@@ -2,6 +2,10 @@
 - I know - Javascript, HTML, CSS, PHP, Kotlin
 - 📫 How to reach me - by my email - mkatul282@gmail.com
 
+- My Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+
 
 <!---
 Gamelegendx/Gamelegendx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
