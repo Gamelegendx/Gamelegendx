@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gamelegendx
 - I know - Javascript, HTML, CSS, PHP, Kotlin
-- 📫 How to reach me - by my email - mkatul282@gmail.com
+- 📫 How to reach me - by my email - gamelegendx@gamelegendx.me
 
 - My Stats
 
