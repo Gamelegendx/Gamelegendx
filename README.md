@@ -8,9 +8,7 @@
 
 [![Github](https://img.shields.io/github/followers/Gamelegendx?label=Follow&style=social)](https://github.com/Gamelegendx)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamelegendx&theme=tokyonight)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Gamelegendx)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gamelegendx&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
