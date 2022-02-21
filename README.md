@@ -4,9 +4,9 @@
 
 - My Stats
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Gamelegendx.CharalambosIoannou)
+![]https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou
 
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/Gamelegendx)
+[![Github](https://img.shields.io/github/followers/Gamelegendx?label=Follow&style=social)](https://github.com/Gamelegendx)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamelegendx&theme=tokyonight)
 
