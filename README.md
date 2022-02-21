@@ -4,7 +4,7 @@
 
 - My Stats
 
-![]https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
 
 [![Github](https://img.shields.io/github/followers/Gamelegendx?label=Follow&style=social)](https://github.com/Gamelegendx)
 
