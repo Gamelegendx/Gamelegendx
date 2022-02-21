@@ -6,6 +6,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Gamelegendx)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gamelegendx&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
