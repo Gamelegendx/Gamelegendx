@@ -8,7 +8,7 @@
 
 [![Github](https://img.shields.io/github/followers/Gamelegendx?label=Follow&style=social)](https://github.com/Gamelegendx)
 
-<p align="left"> <a href="https://github.com/Gamelegendx"><img src="https://github-profile-trophy.vercel.app/?username=Gamelegendx" alt="Gamelegendx" /></a> </p>
+<p align="left"> <a href="https://github.com/Gamelegendx"><img src="https://github-profile-trophy.vercel.app/?username=devnote-dev" alt="devnote-dev" /></a> </p>
 
 
 
