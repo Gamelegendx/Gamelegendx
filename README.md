@@ -16,7 +16,7 @@
 
 ![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamelegendx&layout=compact&hide_border=true&show_icons=true&title_color=c3c6ce&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gamelegendx&" alt="Gamelegendx" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gamelegendx&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!---
 Gamelegendx/Gamelegendx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
