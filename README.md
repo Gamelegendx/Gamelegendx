@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gamelegendx
 - I know - Javascript, HTML, CSS, PHP, Kotlin, Shell, EJS
-- 📫 How to reach me - by my email - gamelegendx@gamelegendx.me
+- 📫 How to reach me - by my email - gamelegendx@hyricon.dev
 
 - My Stats
 - 
