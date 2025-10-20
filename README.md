@@ -3,7 +3,7 @@
 - 📫 How to reach me - by my email - gamelegendx@hyricon.dev
 
 - My Stats
-- 
+  
 ![](https://visitor-badge.laobi.icu/badge?page_id=Gamelegendx.CharalambosIoannou)
 
 [![Github](https://img.shields.io/github/followers/Gamelegendx?label=Follow&style=social)](https://github.com/Gamelegendx)
