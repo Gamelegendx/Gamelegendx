@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gamelegendx
-- I know - Javascript, HTML, CSS, PHP, Kotlin, Shell, EJS, NodeJ, ReactJS, WebOS
+- I know - Javascript, HTML, CSS, EJS, NodeJs, ReactJS, DiscordJs
 - 📫 How to reach me - by my email - gamelegendx@hyricon.dev
 
 - My Stats
